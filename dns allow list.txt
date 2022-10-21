@@ -1,0 +1,35 @@
+#
+# Allowed Globally
+#
+
+@@||api.ipstack.com^$important
+@@||api.punchh.com^$important
+@@||browser.events.data.msn.com^$important
+@@||browser.events.data.microsoft.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+@@||capcut.com^$important
+@@||cdn.crowdtwist.com^$important
+@@||click.e.progressive.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||email.goodrx.com^$important
+@@||enervee.com^$important
+@@||firebaselogging-pa.googleapis.com^$important
+@@||freebies-for-baby.lpages.co^$important
+@@||jamerrillstewart.lpages.co^$important
+@@||l.thrv.me^$important
+@@||mkt1946.com^$important
+@@||mobile.pipe.aria.microsoft.com^$important
+@@||tjx.com^$important
+@@||trumpia.com^$important
+@@||whatmomslove.lpages.co^$important
+
+#
+# Allowed for Living Room Shield
+#
+
+@@||branch.io^$client='Living Room Shield'
+@@||cbsinteractive.hb.omtrdc.net^$client='Living Room Shield'
+@@||cws.conviva.com^$client='Living Room Shield'
+@@||doubleclick.net^$client='Living Room Shield'
+@@||s0.2mdn.net^$client='Living Room Shield'
