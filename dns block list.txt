@@ -15,3 +15,8 @@
 ||scratch.mit.edu^$important
 ||soundcloud.com^$important
 ||wattpad.com^$important
+||gravatar.com^$important
+||replit.com^$important
+
+
+||www.pinterest.com^$client='Leira\'s Device(s)'
