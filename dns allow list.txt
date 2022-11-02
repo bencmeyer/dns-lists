@@ -23,6 +23,12 @@
 @@||tjx.com^$important
 @@||trumpia.com^$important
 @@||whatmomslove.lpages.co^$important
+@@||fls-na.amazon.com^$important
+@@||devicemessaging.us-east-1.amazon.com^$important
+@@||api.us-east-1.aiv-delivery.net^$important
+@@||lib-us-2.brilliantcollector.com^$important
+@@||collect.tealiumiq.com^$important
+@@||doubleclick.net^$important
 
 #
 # Allowed for Living Room Shield
@@ -33,3 +39,5 @@
 @@||cws.conviva.com^$client='Living Room Shield'
 @@||doubleclick.net^$client='Living Room Shield'
 @@||s0.2mdn.net^$client='Living Room Shield'
+@@||androidtvwatsonfe-pa.googleapis.com^$client='Living Room Shield'
+@@||pagead2.googlesyndication.com^$client='Living Room Shield'
