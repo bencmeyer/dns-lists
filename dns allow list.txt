@@ -41,3 +41,4 @@
 @@||s0.2mdn.net^$client='Living Room Shield'
 @@||androidtvwatsonfe-pa.googleapis.com^$client='Living Room Shield'
 @@||pagead2.googlesyndication.com^$client='Living Room Shield'
+@@||androidtvchannels-pa.googleapis.com^$client='Living Room Shield'
