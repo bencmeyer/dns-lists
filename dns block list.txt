@@ -1,21 +1,3 @@
 #
 # Blocked Globally
 #
-
-||bandlab.com^$important
-||chat.soundtrap.com^$important
-||gather.town^$important
-||narvii.com^$important
-||padlet.com^$important
-||padlet.net^$important
-||padletcdn.com^$important
-||pixilart.com^$important
-||pony.town^$important
-||roblox.com^$important
-||scratch.mit.edu^$important
-||soundcloud.com^$important
-||wattpad.com^$important
-||gravatar.com^$important
-
-
-||www.pinterest.com^$client='Leira\'s Device(s)'
